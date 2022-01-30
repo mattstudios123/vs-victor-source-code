@@ -1,0 +1,49 @@
+{
+	"storyName": "vs victor week 2",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "weekv1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"battle",
+			"victor-brabo",
+			[
+				255,
+				106,
+				0
+			]
+		],
+		[
+			"destruction",
+			"victor-brabo",
+			[
+				255,
+				106,
+				0
+			]
+		],
+		[
+			"funked",
+			"victor-brabo",
+			[
+				255,
+				106,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"bf"
+	],
+	"weekName": "Custom Week"
+}

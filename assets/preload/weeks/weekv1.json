@@ -1,0 +1,48 @@
+{
+	"storyName": "vs victor",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"sussy",
+			"victor",
+			[
+				255,
+				191,
+				0
+			]
+		],
+		[
+			"gamanil",
+			"victor",
+			[
+				255,
+				191,
+				0
+			]
+		],
+		[
+			"holysheet",
+			"victor-brabo",
+			[
+				255,
+				128,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"bf"
+	],
+	"weekName": "pamonha"
+}
